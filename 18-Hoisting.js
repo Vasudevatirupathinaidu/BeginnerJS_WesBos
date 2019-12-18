@@ -12,7 +12,6 @@ function sayHi() {
 }
 
 // example-3
-
 function cal() {
   console.log(add(10, 2));
 }
