@@ -59,7 +59,6 @@ var a = 100; //window.a = 100 --> it is attached to window and globally scoped.
 // isCool('deva');
 
 // ***************************************
-
 // const dog = 'snickers';
 
 // function logDog() {
